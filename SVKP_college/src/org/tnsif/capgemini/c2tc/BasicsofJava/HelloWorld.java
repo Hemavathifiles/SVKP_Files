@@ -1,4 +1,4 @@
-package BasicsofJava;
+package org.tnsif.capgemini.c2tc.BasicsofJava;
 
 public class HelloWorld {
 
