@@ -25,7 +25,7 @@ public class ScannerAllMethod {
 		 
 		 System.out.println("Enter your aadhar number");
 		 Long aadhar = scan.nextLong();
-		 scan.nextLine();// 9099 9898 9981
+		 scan.nextLine();// 909998989981
 		 
 		 System.out.println("Enter your favorite teacher");
 		String teacher= scan.nextLine();
