@@ -11,7 +11,9 @@ public class Abstraction {
 	}
 
 }
-abstract class MaheshDemo{    //2015
+abstract class MaheshDemo{ //2015
+	
+
 	public void calling() //concrete method
 	{
 		System.out.println("calling");
