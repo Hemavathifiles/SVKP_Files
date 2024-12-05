@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.collections;
+package org.tnsif.capgemini.collectionsdemo;
 
 import java.util.List;
 import java.util.Stack;
@@ -34,7 +34,7 @@ public class StackDemo {
 		
 		//search
 		
-		int position =stack.search(30);
+		int position =stack.search(20);
 		if(position !=-1)
 		{
 			System.out.println("Element found in " + position + " index pos");

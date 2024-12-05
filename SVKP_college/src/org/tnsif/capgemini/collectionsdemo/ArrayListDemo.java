@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.collections;
+package org.tnsif.capgemini.collectionsdemo;
 
 import java.util.ArrayList;
 import java.util.List;
